@@ -2,12 +2,15 @@
 .message {
     margin-top: 10px;
     font-weight: bold;
+    margin-right: 1650px;
 }
 
 .success {
-    color: green;
+    background-color: rgb(126, 250, 10);
+    font-weight: bold;
 }
 
 .error {
-    color: red;
+    background-color: red;
+    font-weight: bold;
 }
